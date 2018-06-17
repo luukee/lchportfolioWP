@@ -1,0 +1,1 @@
+/Users/lukecarlhartman/Documents/Sites/lchportfolioWP/wp-content/plugins/query-monitor/wp-content/db.php
